@@ -1,0 +1,104 @@
+body {
+    background-color: #000000e8;
+}
+
+.margenes{
+    margin: 50px 0px 0px 50px;
+}
+
+.p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.footer {
+    background: #1e1e1f;
+    color: white;
+}
+
+.links li a {
+    color: white;
+    transition: color .2s;
+    text-decoration: none;
+
+
+}
+
+.links li a:hover {
+    color: #4180CB;
+}
+
+
+
+.copyright p {
+    border-top: 1px solid rgba(255, 255, 255, .1);
+}
+
+.primerComponente {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+}
+
+.image-car {
+    border-radius: 1600px 1600px 1600px 1600px;
+}
+
+.cartas {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.hrColor{
+    border: 4px solid white;
+}
+
+.hrC{
+    color:  white;
+}
+
+
+.strong{
+    color: white;
+    font-size: 25px;
+}
+
+.imagenT:hover{
+    width: 1000px;
+}
+
+.h3{
+    color: white;
+font-size: 25px;
+margin-top: 20px;
+}
+
+.h6F{
+    color: white;
+}
+
+.h3Conocimientos{
+    color: rgb(223, 189, 189);
+    font-weight: 10;
+    font-style: italic;
+}
+
+.face{
+    color: #4180CB;
+    text-decoration: none ;
+}
+
+.git{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 900;
+    font-style: oblique;
+}
+
+.ig{
+    color: rgb(222, 92, 107);
+    text-decoration: none;
+
+}
